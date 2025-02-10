@@ -1,1 +1,3 @@
-# -DOS-Detection
+The DoS (Denial of Service) attack detection tool will be specifically designed for beginners. This tool will provide an intuitive interface and simple configuration options to assist users in detecting and mitigating DoS attacks. It will monitor network traffic patterns, analyze abnormal traffic spikes, and identify potential signs of a DoS attack. 
+
+The tool will generate real-time alerts and notifications, allowing users to take immediate action to mitigate the attack. The project's objective is to empower beginner-level users with an accessible and effective solution for detecting and responding to DoS attacks, enhancing their systems' overall security and availability.
